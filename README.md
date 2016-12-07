@@ -22,4 +22,4 @@
   Recall = 0.906, Precision =	0.910, F1-Measure =	0.908
 
 ### Comments
-- Surprised me that a seq2seq (based on neural machine translation) framework can get a 90+ F1. 
+- Surprised me that a seq2seq framework (based on neural machine translation) can get a 90+ F1. 
