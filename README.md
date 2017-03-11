@@ -9,7 +9,7 @@
 ### Results
 - MSR: 
 
-  Recall = 0.946, Precision =	0.942, F1-Measure =	0.944
+  Recall = 0.956, Precision =	0.956, F1-Measure =	0.956
   
 - PKU:
 
