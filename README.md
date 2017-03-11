@@ -19,7 +19,7 @@
   
 - PKU:
 
-  Recall = 0.906, Precision =	0.910, F1-Measure =	0.908
+  Recall = 0.911, Precision =	0.920, F1-Measure =	0.915
 
 ### Comments
 - Surprised me that a seq2seq framework (based on neural machine translation) can get a 90+ F1. 
